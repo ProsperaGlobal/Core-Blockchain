@@ -1,6 +1,6 @@
 # Soverun
 
-[![N|Solid](https://bridge.soverun.com/assets/img/logo.png)](https://soverun.com)
+[![N|Solid](https://explorer.soverun.com/images/favicon-svrn.png)](https://soverun.com)
 
 
 
